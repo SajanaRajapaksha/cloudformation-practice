@@ -6,4 +6,5 @@ Resources:
       ImageId: ami-063d43db0594b521b
       Tags:
       - Key: "Name"
-        Value: !Join ["-", ["my", "inst", "from", "cloudformation"]]
+        Value: "change-1"
+
